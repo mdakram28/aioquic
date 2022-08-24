@@ -1,0 +1,6 @@
+asgiref
+dnslib
+httpbin
+starlette
+werkzeug<2.1
+wsproto
